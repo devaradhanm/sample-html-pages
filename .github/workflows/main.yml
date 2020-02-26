@@ -18,7 +18,7 @@ jobs:
 
           
     - name: Scan for A11y issues
-      uses: microsoft/accessibility-insights-action@v123
+      uses: microsoft/accessibility-insights-action@master
       with:
         scan-url-relative-path: /
         repo-token: ${{ secrets.GITHUB_TOKEN }}  
