@@ -24,8 +24,5 @@ jobs:
       with:
       # Artifact name
         name: reports
-      # Directory containing files to upload
         path: ${{ github.workspace }}/_accessibility-reports
-    - name: Install dependencies
-      run: yarn install
 
