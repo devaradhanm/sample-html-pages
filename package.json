@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/devaradhanm/sample-html-pages#readme",
   "dependencies": {
-    "semantic-release": "^17.0.3"
+    "semantic-release": "^17.2.3"
   }
 }
